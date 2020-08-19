@@ -1,0 +1,82 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 200px;
+
+}
+
+footer{
+  padding-left:100px;
+  padding-top:100px;
+}
+
+.redText{
+  color : red;
+}
+
+.greenText{
+  color : green;
+}
+
+.paragraph{
+  margin: 15px 350px 75px 100px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color : grey;
+  padding-bottom: 20px
+  padding-left: 120px;
+  text-align : center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.insert{
+  padding-left: 200px;
+  padding-right: 250px;
+  padding-bottom: 20px;
+}
+
+.search-box{
+  margin: 15px 350px 75px 100px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color : grey;
+  padding-bottom: 20px
+  padding-left: 120px;
+  text-align : center;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.searchButton{
+  background-color: #333;
+  padding: 6px 15px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.watches-description{
+  margin: 1px 350px 75px 100px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color : grey;
+  padding-bottom: 5px;
+
+}
+
+.buy-field{
+  margin: 10px 350px 75px 100px;
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  border-color : grey;
+  padding-bottom: 5px;
+
+}
